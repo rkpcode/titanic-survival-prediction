@@ -14,7 +14,7 @@ Predicts passenger survival on the Titanic dataset using classification algorith
 ---
 
 ## 📂 Dataset  
-- Source: [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic)  
+- Source: https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
 - Target: `Survived` (0 = No, 1 = Yes)  
 
 ---
