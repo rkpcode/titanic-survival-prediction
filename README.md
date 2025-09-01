@@ -1,4 +1,4 @@
-# 📂 4. Titanic Survival Prediction
+# 📂 Titanic Survival Prediction
 
 ```markdown
 # 🚢 Titanic Survival Prediction
