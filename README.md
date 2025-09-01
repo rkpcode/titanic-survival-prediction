@@ -20,7 +20,7 @@ Predicts passenger survival on the Titanic dataset using classification algorith
 1. Data Cleaning (handling missing values)  
 2. Feature Engineering (encoding categorical variables)  
 3. Model Training (Logistic Regression, Random Forest, SVM)  
-4. Hyperparmeter Tuning with Grid Search Nested CV
+4. Grid Search Cv Hyperparmeter Tuning With  Nested CV Score 
 5. Evaluation (Accuracy, Confusion Matrix)  
 
 
